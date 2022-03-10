@@ -1,0 +1,10 @@
+.item {
+	margin-top: 16px;
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+	min-height: 150px;
+	line-height: 150px;
+	background-color: darkorange;
+	
+}
